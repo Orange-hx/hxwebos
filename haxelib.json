@@ -4,7 +4,7 @@
     "license"      : "MIT",
     "tags"         : [ "javascript", "js", "webos", "tv", "LG", "externs", "sdk" ],
     "description"  : "Haxe externs for webOSTV JavaScript library (webOSTV.js) and it's related stuff!",
-    "version"      : "1.0.0",
+    "version"      : "1.0.1",
     "releasenote"  : "See https://github.com/Rabios/hxwebos/blob/main/docs/changelog.md",
     "classPath"    : "src",
     "contributors" : [ "Rabios" ],

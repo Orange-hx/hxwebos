@@ -25,7 +25,7 @@ import hxwebos.DRMAgent;
 
 ### Changes from JavaScript
 
-The API of JavaScript is same from [webOS.js](https://webostv.developer.lge.com/api/webostvjs/webos) and [webOSDev.js](https://webostv.developer.lge.com/api/webostvjs/webosdev) and [DRMAgent](https://webostv.developer.lge.com/api/webostvjs/webosdev/drmagent) just with tiny changes like:
+The API of JavaScript is same from [webOSTV.js](https://webostv.developer.lge.com/api/webostvjs/webos) and [webOSTVDev.js](https://webostv.developer.lge.com/api/webostvjs/webosdev) and [DRMAgent](https://webostv.developer.lge.com/api/webostvjs/webosdev/drmagent) just with tiny changes like:
 
 1. `webOSDev` stuff is in `WebOSDev` class which can be used as like JavaScript objects.
 2. `webOS` stuff is in `WebOS` class which can be used as like JavaScript objects.
