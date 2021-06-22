@@ -1,0 +1,6 @@
+--class-path src
+--dce std
+hxwebos.WebOS
+hxwebos.WebOSDev
+hxwebos.DRMAgent
+--js bin/hxwebos.js
